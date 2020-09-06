@@ -1,0 +1,24 @@
+{
+  "name": "physio",
+  "version": "1.0.0",
+  "description": "I'm tired of paywalls on health/fitness apps, this is a workout/body statistic tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronak0624/physio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronak0624/physio/issues"
+  },
+  "homepage": "https://github.com/ronak0624/physio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.3"
+  }
+}
